@@ -1,5 +1,5 @@
-<h1 align="center">Hello 😎, Look at Santiago Barros Hernandez Works</h1>
-<h3 align="center">System Engineer student</h3>
+<h1 align="left">Hello 😎, Look at Santiago Barros Hernandez Works</h1>
+<h3 align="left">System Engineer student</h3>
 <img aling="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&re>
 - 🔭 I’m currently working on **"Algoritmos & Programación"**
 
